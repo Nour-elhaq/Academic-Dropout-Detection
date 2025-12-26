@@ -41,8 +41,8 @@ Optimized for dropout detection (minority class):
 ### 1) Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone <https://github.com/Nour-elhaq/Academic-Dropout-Detection>
+
 ```
 
 ### 2) Install dependencies
