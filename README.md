@@ -142,3 +142,5 @@ After running evaluation, check `plots/` for:
 * Precision–Recall curves
 
 ---
+[![DOI](https://zenodo.org/badge/1123243750.svg)](https://doi.org/10.5281/zenodo.18061762)
+
