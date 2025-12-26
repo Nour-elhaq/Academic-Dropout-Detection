@@ -1,6 +1,6 @@
 # academic-dropout-detection — Student Dropout Prediction & Academic Success
 
-##  Project Overview
+## 🚀 Project Overview
 
 This repository provides a **deployment-ready machine learning pipeline** to predict student dropout risk using **binary classification**:
 
@@ -21,7 +21,7 @@ It is designed for an **early-warning use case after the 1st semester**, helping
 
 ---
 
-##  Key Results (Test Set)
+## 📊 Key Results (Test Set)
 
 Optimized for dropout detection (minority class):
 
@@ -36,7 +36,7 @@ Optimized for dropout detection (minority class):
 
 ---
 
-##  Installation
+## 🛠 Installation
 
 ### 1) Clone the repository
 
@@ -63,7 +63,7 @@ Minimal requirements:
 
 ---
 
-## Usage
+## 🏃 Usage
 
 ### 1) Train models
 
@@ -133,7 +133,7 @@ Outputs:
 
 ---
 
-##  Visualizations
+## 📈 Visualizations
 
 After running evaluation, check `plots/` for:
 
