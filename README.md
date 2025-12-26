@@ -1,4 +1,4 @@
-# academic-dropout-detection — Student Dropout Prediction & Academic Success
+# Academic-Dropout-Detection — Student Dropout Prediction & Academic Success
 
 ## 🚀 Project Overview
 
